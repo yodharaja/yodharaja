@@ -11,7 +11,10 @@
 
 <br/>
 <div align="center">
+  
 ## 📜 CHARACTER SHEET
+
+
 </div>
 
 
@@ -33,6 +36,7 @@
 #### ⚔️ CORE STATS
 
 <div align="center">
+
 | Stat | Bar | Value |
 |:---|:---|:---:|
 | ❤️ **HP** (Health) | `█████████████████` | 9999 |
