@@ -51,11 +51,9 @@
 
 <div align="center">
 
-# 🏹 EQUIPPED LOADOUT — AVENGERS HERO GEAR
+# 🏹 EQUIPPED LOADOUT 
 
 </div>
-
----
 
 ### 💎 INFINITY STONES (Languages)
 
