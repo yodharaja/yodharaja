@@ -10,6 +10,9 @@
 </div>
 
 <br/>
+
+---
+
 <div align="center">
   
 ## 📜 CHARACTER SHEET
