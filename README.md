@@ -10,13 +10,16 @@
 </div>
 
 <br/>
-
-## 📜 CHARACTER SHEET
-
 <div align="center">
+## 📜 CHARACTER SHEET
+</div>
+
+
 
 #### 👤 OPERATOR DOSSIER - CLASS: S-RANK
 
+<div align="center">
+  
 | Field | Details |
 |:---|:---|
 | 👤 **Operator ID** | Purusottam Sahoo |
@@ -25,11 +28,11 @@
 | 🎖️ **Level** | 99 |
 | ♟️ **Chess ELO** | 1700 Rating |
 | 🟢 **Status** | Active |
-
----
+</div>
 
 #### ⚔️ CORE STATS
 
+<div align="center">
 | Stat | Bar | Value |
 |:---|:---|:---:|
 | ❤️ **HP** (Health) | `█████████████████` | 9999 |
@@ -40,7 +43,6 @@
 | 🍀 **LCK** (Luck) | `███████████████░░` | 88 |
 
 </div>
-
 <br/>
 
 ---
@@ -51,7 +53,7 @@
 
 </div>
 
-### 💎 INFINITY STONES (Languages)
+#### 💎 INFINITY STONES (Languages)
 
 <div align="center">
 
@@ -68,7 +70,7 @@
 
 ---
 
-### 🛡️ VIBRANIUM ARMOR (Frameworks & Tools)
+#### 🛡️ VIBRANIUM ARMOR (Frameworks & Tools)
 
 <div align="center">
 
