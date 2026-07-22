@@ -24,7 +24,7 @@
 | ⚡ **Class** | Electrical Engineer |
 | 🎖️ **Level** | 99 |
 | ♟️ **Chess ELO** | 1700 Rating |
-| 🟢 **Status** | Active - Available for Projects |
+| 🟢 **Status** | Active |
 
 ---
 
