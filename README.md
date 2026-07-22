@@ -39,12 +39,12 @@
 
 | Stat | Bar | Value |
 |:---|:---|:---:|
-| ❤️ **HP** (Health) | `█████████████████` | 9999 |
-| ⚔️ **ATK** (Attack) | `████████████████░` | 95 |
-| 🛡️ **DEF** (Defense) | `█████████████░░░░` | 83 |
-| 🧠 **INT** (Intellect) | `█████████████████` | MAX |
-| ⚡ **SPD** (Speed) | `████████████████░` | 95 |
-| 🍀 **LCK** (Luck) | `███████████████░░` | 88 |
+| ❤️ **HP** (Health) | `███████████████` | 9999 |
+| ⚔️ **ATK** (Attack) | `██████████████░` | 95 |
+| 🛡️ **DEF** (Defense) | `████████████░░░░` | 83 |
+| 🧠 **INT** (Intellect) | `███████████████` | MAX |
+| ⚡ **SPD** (Speed) | `██████████████░` | 95 |
+| 🍀 **LCK** (Luck) | `█████████████░░` | 88 |
 
 </div>
 <br/>
@@ -63,16 +63,15 @@
 
 | Stone | Weapon | Infinity Power | Badge |
 |:---:|:---|:---|:---|
-| 🟡 Mind | **JavaScript** | `█████████████████` 100% | ![](https://img.shields.io/badge/Omega_Tier-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🔵 Space | **Python** | `████████████████░` 95% | ![](https://img.shields.io/badge/Omega_Tier-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🔴 Reality | **Java/Kotlin** | `███████████████░░` 90% | ![](https://img.shields.io/badge/Alpha_Tier-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🟣 Power | **C/C++** | `██████████████░░░` 85% | ![](https://img.shields.io/badge/Alpha_Tier-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| 🟠 Soul | **TypeScript** | `█████████████░░░░` 80% | ![](https://img.shields.io/badge/Alpha_Tier-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| 🟢 Time | **HTML/CSS** | `█████████████████` 100% | ![](https://img.shields.io/badge/Omega_Tier-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🟡 Mind | **JavaScript** | `██████████████` 100% | ![](https://img.shields.io/badge/Omega_Tier-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🔵 Space | **Python** | `█████████████░` 95% | ![](https://img.shields.io/badge/Omega_Tier-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🔴 Reality | **Java/Kotlin** | `████████████░░` 90% | ![](https://img.shields.io/badge/Alpha_Tier-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| 🟣 Power | **C/C++** | `███████████░░░` 85% | ![](https://img.shields.io/badge/Alpha_Tier-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| 🟠 Soul | **TypeScript** | `██████████░░░░` 80% | ![](https://img.shields.io/badge/Alpha_Tier-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🟢 Time | **HTML/CSS** | `██████████████` 100% | ![](https://img.shields.io/badge/Omega_Tier-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
 </div>
 
----
 
 #### 🛡️ VIBRANIUM ARMOR (Frameworks & Tools)
 
