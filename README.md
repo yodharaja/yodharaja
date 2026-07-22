@@ -36,47 +36,33 @@
 | 🟢 **Status** | Active |
 </div>
 
-#### ⚔️ CORE STATS
+
+## 🛠️ TECHNICAL STACK & TOOLING
+
+</div>
+
+#### 💻 Programming Languages
 
 <div align="center">
 
-| Stat | Bar | Value |
-|:---|:---|:---:|
-| ❤️ **HP** (Health) | `███████████████` | 9999 |
-| ⚔️ **ATK** (Attack) | `██████████████░` | 95 |
-| 🛡️ **DEF** (Defense) | `████████████░░░░` | 83 |
-| 🧠 **INT** (Intellect) | `███████████████` | MAX |
-| ⚡ **SPD** (Speed) | `██████████████░` | 95 |
-| 🍀 **LCK** (Luck) | `█████████████░░` | 88 |
+<a href="#"><img src="https://skillicons.dev/icons?i=js,py,java,cpp,ts,html,css,kotlin&theme=dark" /></a>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 </div>
+
 <br/>
 
----
-
-<div align="center">
-
-## 🏹 EQUIPPED LOADOUT 
-
-</div>
-
-#### 💎 INFINITY STONES (Languages)
-
-<div align="center">
-
-| Stone | Weapon | Infinity Power | Badge |
-|:---:|:---|:---|:---|
-| 🟡 Mind | **JavaScript** | `██████████████` 100% | ![](https://img.shields.io/badge/Omega_Tier-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🔵 Space | **Python** | `█████████████░` 95% | ![](https://img.shields.io/badge/Omega_Tier-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🔴 Reality | **Java/Kotlin** | `████████████░░` 90% | ![](https://img.shields.io/badge/Alpha_Tier-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🟣 Power | **C/C++** | `███████████░░░` 85% | ![](https://img.shields.io/badge/Alpha_Tier-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| 🟠 Soul | **TypeScript** | `██████████░░░░` 80% | ![](https://img.shields.io/badge/Alpha_Tier-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| 🟢 Time | **HTML/CSS** | `██████████████` 100% | ![](https://img.shields.io/badge/Omega_Tier-E34F26?style=flat-square&logo=html5&logoColor=white) |
-
-</div>
-
-
-#### 🛡️ VIBRANIUM ARMOR (Frameworks & Tools)
+#### 🚀 Frameworks, Ecosystems & Tools
 
 <div align="center">
 
@@ -84,14 +70,14 @@
 <tr>
 <td align="center" width="50%">
 
-**🕷️ Spider Suit — Frontend**
+**🌐 Frontend Engineering**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /></a>
 
 </td>
 <td align="center" width="50%">
 
-**🔨 Mjolnir — Backend**
+**⚙️ Backend & APIs**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" /></a>
 
@@ -100,14 +86,14 @@
 <tr>
 <td align="center">
 
-**🧠 Mind Stone — AI / ML**
+**🤖 AI / Machine Learning**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" /></a>
 
 </td>
 <td align="center">
 
-**📱 Stark Phone — Mobile**
+**📱 Mobile Development**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" /></a>
 
@@ -116,14 +102,14 @@
 <tr>
 <td align="center">
 
-**💾 J.A.R.V.I.S. — Databases**
+**💾 Databases & Cloud**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" /></a>
 
 </td>
 <td align="center">
 
-**🛡️ Vibranium — DevOps**
+**🛠️ DevOps & Developer Tools**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark" /></a>
 
@@ -133,7 +119,11 @@
 
 </div>
 
+<br/>
+
 ---
+
+<div align="center">
 
 ## 📊 PLAYER STATS
 
