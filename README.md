@@ -11,37 +11,33 @@
 
 <br/>
 
----
-
 ## 📜 CHARACTER SHEET
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                   OPERATOR DOSSIER // CLASS: S-RANK                  ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   OPERATOR ID ..... Purusottam Sahoo                                 ║
-║   CALLSIGN ........ YodhaRaja                                        ║
-║   CLASS ........... Electrical Engineer                              ║
-║   LEVEL ........... 99                                               ║
-║   CHESS ELO ....... 1700 Rating                                      ║
-║   STATUS .......... Active // Available for Projects                 ║
-║                                                                      ║
-║   ┌──────────────────── CORE STATS ────────────────────────────┐     ║
-║   │                                                            │     ║
-║   │   ❤️  HP (Health)     9999 / 9999                           │     ║
-║   │   ⚔️  ATK (Attack)    █████████████████████████████░░░  95  │     ║
-║   │   🛡️  DEF (Defense)   ████████████████████████░░░░░░░░  83  │     ║
-║   │   🧠  INT (Intellect) ████████████████████████████████  MAX │     ║
-║   │   ⚡  SPD (Speed)     █████████████████████████████░░░  95  │     ║
-║   │   🍀  LCK (Luck)      ████████████████████████████░░░░  88  │     ║
-║   │                                                            │     ║
-║   └────────────────────────────────────────────────────────────┘     ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+### 👤 OPERATOR DOSSIER - CLASS: S-RANK
+
+| Field | Details |
+|:---|:---|
+| 👤 **Operator ID** | Purusottam Sahoo |
+| 🏷️ **Callsign** | YodhaRaja |
+| ⚡ **Class** | Electrical Engineer |
+| 🎖️ **Level** | 99 |
+| ♟️ **Chess ELO** | 1700 Rating |
+| 🟢 **Status** | Active - Available for Projects |
+
+---
+
+### ⚔️ CORE STATS
+
+| Stat | Bar | Value |
+|:---|:---|:---:|
+| ❤️ **HP** (Health) | `████████████████████` | 9999 |
+| ⚔️ **ATK** (Attack) | `███████████████████░` | 95 |
+| 🛡️ **DEF** (Defense) | `████████████████░░░░` | 83 |
+| 🧠 **INT** (Intellect) | `████████████████████` | MAX |
+| ⚡ **SPD** (Speed) | `███████████████████░` | 95 |
+| 🍀 **LCK** (Luck) | `██████████████████░░` | 88 |
 
 </div>
 
