@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&repeat=true&width=650&height=40&lines=%E2%96%B6+NEW+QUEST+UNLOCKED%3A+Visit+My+Profile;%E2%96%B6+ACHIEVEMENT%3A+GATE+EE+AIR+120+EARNED;%E2%96%B6+ACHIEVEMENT%3A+GATE+EC+AIR+622+EARNED;%E2%96%B6+SKILL+TREE+FULLY+UNLOCKED+%E2%9C%93" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=650&height=40&lines=GATE+EE+AIR+120+%E2%80%A2+GATE+EC+AIR+622;Chess+Rating+1700+ELO+%E2%99%9F;Full-Stack+Developer+%E2%80%A2+Machine+Learning;JavaScript+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B" />
 
 </div>
 
