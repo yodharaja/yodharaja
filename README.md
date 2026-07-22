@@ -67,56 +67,6 @@
 
 ---
 
----
-
-## 🏆 ACHIEVEMENT LOG
-
-<div align="center">
-
-| 🏅 Achievement | ⭐ Rarity | 📋 Description |
-|:---|:---:|:---|
-| ![](https://img.shields.io/badge/🎯_GATE_MASTER_EE-UNLOCKED-ffd700?style=flat-square&labelColor=1a1c2e) | ★★★★★ | **AIR 120** — Defeated 99.8% of all challengers |
-| ![](https://img.shields.io/badge/🎯_GATE_MASTER_EC-UNLOCKED-c0a0ff?style=flat-square&labelColor=1a1c2e) | ★★★★☆ | **AIR 622** — Conquered 99.3% of the battlefield |
-| ![](https://img.shields.io/badge/⚔️_DUAL_WIELDER-UNLOCKED-ff6b6b?style=flat-square&labelColor=1a1c2e) | ★★★★★ | Mastered GATE in **two different branches** |
-| ![](https://img.shields.io/badge/💻_CODE_WARRIOR-UNLOCKED-48dbfb?style=flat-square&labelColor=1a1c2e) | ★★★★☆ | Became a Full-Stack Developer |
-| ![](https://img.shields.io/badge/🤖_MIND_BENDER-UNLOCKED-00b894?style=flat-square&labelColor=1a1c2e) | ★★★★☆ | Trained Machine Learning models |
-| ![](https://img.shields.io/badge/📱_APP_FORGER-UNLOCKED-a55eea?style=flat-square&labelColor=1a1c2e) | ★★★☆☆ | Built native Android applications |
-| ![](https://img.shields.io/badge/🌐_WEB_WEAVER-UNLOCKED-0984e3?style=flat-square&labelColor=1a1c2e) | ★★★★☆ | Crafted responsive web experiences |
-
-</div>
-
----
-
-## 🌲 SKILL TREE
-
-<div align="center">
-
-```
-                            🧠
-                       INTELLECT
-                      ╱         ╲
-                    ╱             ╲
-                  ╱                 ╲
-          ⚡ ENGINEERING          💻 TECHNOLOGY
-          │                       │
-    ┌─────┴─────┐          ┌──────┴──────┐
-    │           │          │             │
-  🔌 EE      📡 EC     🌐 WEB       📱 MOBILE
-  AIR 120   AIR 622     │             │
-                    ┌────┴────┐     ANDROID
-                    │         │     KOTLIN
-                FRONTEND  BACKEND   JETPACK
-                    │         │
-              ┌─────┤    ┌────┤
-              │     │    │    │
-            REACT  HTML NODE  EXPRESS
-            CSS    JS   FIREBASE MONGO
-```
-
-</div>
-
-<br/>
-
 ### ⚔️ EQUIPPED WEAPONS (Languages)
 
 <div align="center">
