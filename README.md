@@ -49,64 +49,81 @@
 
 ---
 
-### ⚔️ EQUIPPED WEAPONS (Languages)
-
 <div align="center">
 
-| Weapon | Rarity | Power Level | Badge |
-|:---|:---:|:---|:---|
-| 🗡️ **JavaScript** | ★★★★★ | `████████████████████` 100% | ![JavaScript](https://img.shields.io/badge/-Legendary-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🏹 **Python** | ★★★★★ | `███████████████████░` 95% | ![Python](https://img.shields.io/badge/-Legendary-3776AB?style=flat-square&logo=python&logoColor=white) |
-| ⚔️ **Java** | ★★★★☆ | `██████████████████░░` 90% | ![Java](https://img.shields.io/badge/-Epic-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🔱 **C++** | ★★★★☆ | `█████████████████░░░` 85% | ![C++](https://img.shields.io/badge/-Epic-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| 🪄 **TypeScript** | ★★★★☆ | `████████████████░░░░` 80% | ![TypeScript](https://img.shields.io/badge/-Epic-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| 📜 **HTML/CSS** | ★★★★★ | `████████████████████` 100% | ![HTML](https://img.shields.io/badge/-Legendary-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| 🔮 **Kotlin** | ★★★☆☆ | `██████████████░░░░░░` 70% | ![Kotlin](https://img.shields.io/badge/-Rare-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+# 🏹 EQUIPPED LOADOUT — AVENGERS HERO GEAR
 
 </div>
 
-<br/>
+---
 
-### 🛡️ EQUIPPED ARMOR (Frameworks & Tools)
+### 💎 INFINITY STONES (Languages)
+
+<div align="center">
+
+| Stone | Weapon | Infinity Power | Badge |
+|:---:|:---|:---|:---|
+| 🟡 Mind | **JavaScript** | `████████████████████` 100% | ![](https://img.shields.io/badge/Omega_Tier-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🔵 Space | **Python** | `███████████████████░` 95% | ![](https://img.shields.io/badge/Omega_Tier-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🔴 Reality | **Java/Kotlin** | `██████████████████░░` 90% | ![](https://img.shields.io/badge/Alpha_Tier-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| 🟣 Power | **C/C++** | `█████████████████░░░` 85% | ![](https://img.shields.io/badge/Alpha_Tier-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| 🟠 Soul | **TypeScript** | `████████████████░░░░` 80% | ![](https://img.shields.io/badge/Alpha_Tier-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🟢 Time | **HTML/CSS** | `████████████████████` 100% | ![](https://img.shields.io/badge/Omega_Tier-E34F26?style=flat-square&logo=html5&logoColor=white) |
+
+</div>
+
+---
+
+### 🛡️ VIBRANIUM ARMOR (Frameworks & Tools)
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 
-**🌐 Frontend Guild**
+**🕷️ Spider Suit — Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /></a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 
-**⚙️ Backend Forge**
+**🔨 Mjolnir — Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" /></a>
 
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center">
 
-**🧠 Arcane Arts (ML)**
+**🧠 Mind Stone — AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TF-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![sklearn](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" /></a>
 
 </td>
-<td align="center" width="25%">
+<td align="center">
 
-**🛠️ Utility Belt**
+**📱 Stark Phone — Mobile**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" /></a>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**💾 J.A.R.V.I.S. — Databases**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres&theme=dark" /></a>
+
+</td>
+<td align="center">
+
+**🛡️ Vibranium — DevOps**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark" /></a>
 
 </td>
 </tr>
