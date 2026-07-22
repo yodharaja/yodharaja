@@ -154,22 +154,6 @@
 
 ---
 
-## 🎮 ACTIVE QUESTS
-
-<div align="center">
-
-| # | Quest | Status | XP Reward |
-|:---:|:---|:---:|:---|
-| 1 | 🏗️ Build a scalable SaaS application | 🔄 In Progress | +5000 XP |
-| 2 | 🧠 Deploy production ML pipeline | 🔄 In Progress | +4500 XP |
-| 3 | 📱 Publish Android app to Play Store | 📋 Queued | +3000 XP |
-| 4 | 🌐 Contribute to 10 open-source projects | 🔄 In Progress | +6000 XP |
-| 5 | ☁️ Get cloud architecture certification | 📋 Queued | +4000 XP |
-
-</div>
-
----
-
 ## 🏰 JOIN THE PARTY
 
 <div align="center">
