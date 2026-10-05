@@ -8,7 +8,6 @@
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github&perline=6" alt="Technology icons for Java, Kotlin, Android Studio, Git, and GitHub" role="img" />
 
-<br /><br />
 
 <p>Building things. Learning constantly.</p>
 
