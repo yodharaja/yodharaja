@@ -5,6 +5,6 @@
 
 <img src="./assets/flowicon.svg" width="80%" />
 
-<img src="./assets/quote_cloud.svg" height="80%" />
+<img src="./assets/quote_simple.svg" height="80%" />
 <img src="./assets/footer.svg" width="100%" />
 </div>
