@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 265" width="100%" height="100%">
-  <!-- Borderless More Transparent Obsidian Symmetrical Thought Cloud (0.48 opacity) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 240" width="100%" height="100%">
+  <!-- Borderless Symmetrical Cloud without Trailing Bubbles (0.48 opacity) -->
   <g fill="#080a11" fill-opacity="0.48">
     <path d="M 105,118 A 38.5,38.5 0 0,0 150,78 A 56.2,56.2 0 0,0 235,56 A 61.1,61.1 0 0,0 330,46 A 60.9,60.9 0 0,0 425,42 A 60.9,60.9 0 0,0 520,46 A 61.1,61.1 0 0,0 615,56 A 56.2,56.2 0 0,0 700,78 A 38.5,38.5 0 0,0 745,118 A 37.1,37.1 0 0,0 705,160 A 53.1,53.1 0 0,0 625,182 A 64.3,64.3 0 0,0 525,192 A 64.1,64.1 0 0,0 425,196 A 64.1,64.1 0 0,0 325,192 A 64.3,64.3 0 0,0 225,182 A 53.1,53.1 0 0,0 145,160 A 37.1,37.1 0 0,0 105,118 Z"/>
-    
-    <circle cx="425" cy="230" r="10"/>
-    <circle cx="425" cy="245" r="6.5"/>
-    <circle cx="425" cy="254" r="4"/>
-
   </g>
 
   <!-- Quote Text Centered with Ample Padding -->
