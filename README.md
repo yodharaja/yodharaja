@@ -6,6 +6,6 @@
 <img src="./assets/flowicon.svg" width="80%" />
 <br>
 
-> Think. Build. Compete. Evolve. ⚡  
+<img src="./assets/quote.svg" width="80%" />
 <img src="./assets/footer.svg" width="100%" />
 </div>
