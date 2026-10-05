@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ffd700&center=true&vCenter=true&width=750&lines=Engineer+%7C+Developer+%7C+Builder;Chess+1900+ELO+%7C+GATE+EE+AIR+120" />
 
-<img src="https://skillicons.dev/icons?i=cpp,js,java,kotlin,androidstudio,github&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,kotlin,androidstudio,github&perline=6" />
 
 <br>
 
