@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 88" width="100%" height="100%">
+  <!-- Transparent Background / Low Height Profile (Fira Code Monospace) -->
+  <g font-family="'Fira Code', monospace" text-anchor="middle">
+    <text x="400" y="25" font-size="18.5" fill="#e2e8f0" letter-spacing="0.2">&#x201C;A true warrior knows that the greatest</text>
+    <text x="400" y="52" font-size="18.5" fill="#e2e8f0" letter-spacing="0.2">enemy is the limit you set for yourself.&#x201D;</text>
+  </g>
+
+  <!-- Author Attribution in Gold -->
+  <g font-family="'Fira Code', monospace" text-anchor="end">
+    <text x="640" y="78" font-size="14.5" font-weight="600" fill="#ffd700" letter-spacing="1.5">&#x2014; Yodha Raja, Level 99</text>
+  </g>
+</svg>
