@@ -9,6 +9,6 @@
 <br>
 
 > Think. Build. Compete. Evolve. ⚡
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2e,30:2a1f5e,60:4a1942,100:1a1c2e&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:050505,50:0d47a1,100:00e5ff&height=120&section=footer" width="100%" />
 
 </div>
