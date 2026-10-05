@@ -1,39 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="100%">
-  <defs>
-    <!-- Seamless Thinking Shape Mask -->
-    <mask id="thoughtMask1">
-      <rect width="850" height="220" fill="#000000"/>
-      <!-- Main Cloud Capsule Body -->
-      <rect x="100" y="25" width="650" height="130" rx="65" fill="#ffffff"/>
-      <!-- Top Puffy Cloud Lobes -->
-      <circle cx="210" cy="30" r="48" fill="#ffffff"/>
-      <circle cx="340" cy="20" r="54" fill="#ffffff"/>
-      <circle cx="480" cy="20" r="54" fill="#ffffff"/>
-      <circle cx="620" cy="30" r="48" fill="#ffffff"/>
-      <!-- Bottom Puffy Cloud Lobes -->
-      <circle cx="230" cy="150" r="46" fill="#ffffff"/>
-      <circle cx="360" cy="155" r="52" fill="#ffffff"/>
-      <circle cx="500" cy="155" r="52" fill="#ffffff"/>
-      <circle cx="640" cy="150" r="46" fill="#ffffff"/>
-      <!-- Side Lobes -->
-      <circle cx="105" cy="90" r="62" fill="#ffffff"/>
-      <circle cx="745" cy="90" r="62" fill="#ffffff"/>
-      <!-- Thinking Bubbles Trail (Bottom Left) -->
-      <circle cx="250" cy="182" r="16" fill="#ffffff"/>
-      <circle cx="218" cy="198" r="11" fill="#ffffff"/>
-      <circle cx="192" cy="208" r="6.5" fill="#ffffff"/>
-    </mask>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 265" width="100%" height="100%">
+  <!-- Borderless More Transparent Obsidian Symmetrical Thought Cloud (0.48 opacity) -->
+  <g fill="#080a11" fill-opacity="0.48">
+    <path d="M 105,118 A 38.5,38.5 0 0,0 150,78 A 56.2,56.2 0 0,0 235,56 A 61.1,61.1 0 0,0 330,46 A 60.9,60.9 0 0,0 425,42 A 60.9,60.9 0 0,0 520,46 A 61.1,61.1 0 0,0 615,56 A 56.2,56.2 0 0,0 700,78 A 38.5,38.5 0 0,0 745,118 A 37.1,37.1 0 0,0 705,160 A 53.1,53.1 0 0,0 625,182 A 64.3,64.3 0 0,0 525,192 A 64.1,64.1 0 0,0 425,196 A 64.1,64.1 0 0,0 325,192 A 64.3,64.3 0 0,0 225,182 A 53.1,53.1 0 0,0 145,160 A 37.1,37.1 0 0,0 105,118 Z"/>
+    
+    <circle cx="425" cy="230" r="10"/>
+    <circle cx="425" cy="245" r="6.5"/>
+    <circle cx="425" cy="254" r="4"/>
 
-  <!-- Borderless Slightly Transparent Obsidian Fill (0.75 opacity) -->
-  <rect width="850" height="220" fill="#080a11" fill-opacity="0.75" mask="url(#thoughtMask1)"/>
-
-  <!-- Centered Quote Text Inside Thinking Bubble -->
-  <g font-family="'Cinzel', 'Georgia', serif" text-anchor="middle">
-    <text x="425" y="70" font-size="19" font-style="italic" fill="#f8fafc" letter-spacing="0.4">&#x201C;A true warrior knows that the greatest</text>
-    <text x="425" y="100" font-size="19" font-style="italic" fill="#f8fafc" letter-spacing="0.4">enemy is the limit you set for yourself.&#x201D;</text>
   </g>
-  <g font-family="'Inter', -apple-system, sans-serif" text-anchor="middle">
-    <text x="425" y="138" font-size="13.5" font-weight="600" fill="#ffd700" letter-spacing="2">&#x2014; YodhaRaja, Level 99</text>
+
+  <!-- Quote Text Centered with Ample Padding -->
+  <g font-family="'Cinzel', 'Georgia', serif" text-anchor="middle">
+    <text x="425" y="88" font-size="21.5" font-style="italic" fill="#f8fafc" letter-spacing="0.4">&#x201C;A true warrior knows that the greatest</text>
+    <text x="425" y="120" font-size="21.5" font-style="italic" fill="#f8fafc" letter-spacing="0.4">enemy is the limit you set for yourself.&#x201D;</text>
+  </g>
+
+  <!-- Author Attribution Shifted Right Below Quote -->
+  <g font-family="'Inter', -apple-system, sans-serif" text-anchor="end">
+    <text x="675" y="166" font-size="15.5" font-weight="700" fill="#ffd700" letter-spacing="2">&#x2014; Yodha Raja, Level 99</text>
   </g>
 </svg>
